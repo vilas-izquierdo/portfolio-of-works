@@ -16,3 +16,7 @@ The images in the "works" section link to placeholder websites that will eventua
 
 ## Links
 
+
+<a href="https://vilas-izquierdo.github.io/portfolio-of-works/">Deployed Page</a>
+
+<a href="https://github.com/vilas-izquierdo/portfolio-of-works">GitHub</a>
